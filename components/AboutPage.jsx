@@ -3,7 +3,7 @@ function AboutPage() {
         <footer>
             <div>
                 <h1>About US</h1>
-                <p>Mohamed MBAYE</p>
+                <p>MTon NOm</p>
             </div>
         </footer>
     )
